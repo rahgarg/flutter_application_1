@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344015524604",
+    "project_id": "django-app-7e037",
+    "storage_bucket": "django-app-7e037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344015524604:android:f8f5976e934eb35dc27d79",
+        "android_client_info": {
+          "package_name": "com.sathee.rr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsKh6tY_hu27Nw-8WWJCqBcWhAYeqZYOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
